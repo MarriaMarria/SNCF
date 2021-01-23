@@ -14,7 +14,7 @@ raw_data = json.loads(response.text) #dict
 
 areas = raw_data["stop_areas"] #list which we assign to the variable areas cause the name of the file is stop_ares!
 
-print(len(areas)) # 25
+# print(len(areas)) # 25
 
 # checking which elements we have inside our stop_areas nested list
 # for loop_list in areas:
@@ -85,13 +85,38 @@ for loop_link in links:
         print(f"Unexpected format {type(loop_link)}")
 
 
+# STEP 4: CREATING CSV FILE
+# 1st file with urls
+
+df = pd.DataFrame(data={"href": list_hrefs})
+df.to_csv("data_file.csv", sep=',',index=False)
+
+# 2nd file with id:s and labels
+
+pairs = {'id': list_ids, 'label': list_labels}
+df = pd.DataFrame.from_dict(pairs)
+df.to_csv('ids_labels.csv')
+
+
+
+
+
+
+# with open('data_file.csv', 'w', newline='') as myfile:
+#     wr = csv.writer(myfile)
+#     wr.writerow(list_hrefs)
+
+
+
+
 # print(len(list_hrefs)) # 11
 # print(list_hrefs) # prints 11 hrefs from 11 dict from one list called links
 
-my_dict = {}
-my_dict = dict(zip(list_labels, zip(list_ids, list_hrefs))) 
-print(my_dict)
-print(type(my_dict))
+# my_dict = {}
+# my_dict = dict(zip(list_labels, zip(list_ids, list_hrefs))) 
+# print("PRINTING DICT")
+# print(my_dict)
+# print(type(my_dict))
 
 
 # def write_csv(data):
@@ -108,20 +133,20 @@ print(type(my_dict))
 # for item in l:
 #     write_csv(item)
 
-def write_csv(data):
-    with open('data_csv.csv', 'a') as file:
-        order = ['id', 'label', 'url']
-        writer = csv.DictWriter(file, fieldnames = order)
+# def write_csv(data):
+#     with open('data_csv.csv', 'a') as file:
+#         order = ['id', 'label', 'url']
+#         writer = csv.DictWriter(file, fieldnames = order)
 
-        writer.writerow(data)
+#         writer.writerow(data)
 
-d= {'id', 'label', 'url'}
-l = [d, list_ids, list_labels, list_hrefs]
+# d= {'id', 'label', 'url'}
+# l = [d, list_ids, list_labels, list_hrefs]
 
-for item in l:
-    write_csv(item)
+# for item in l:
+#     write_csv(item)
 
-
+# write_csv(my_dict)
 
 
 # with open('data_file.csv', "w") as f:
@@ -166,7 +191,7 @@ for item in l:
 # print(my_dict)
 
 
-# STEP 4: CREATING CSV FILE
+
 
 # file_csv = pd.DataFrame(d)
 # d.to_csv("data_file.csv")
