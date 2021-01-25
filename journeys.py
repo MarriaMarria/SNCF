@@ -183,7 +183,7 @@ for stop in stop_date_times:
         stations_departure_time.append(departure)
 print(stations_departure_time)
 
-# transform the info received in normal date time etc
+# transform the info received in normal date time etc like temps d'arret:  0:03:00
 
 
 
@@ -192,17 +192,6 @@ print(stations_departure_time)
 
 
 
-
-# for loop_keys in from_section.keys():
-#     print(type(loop_keys), loop_keys)
-# '''
-# <class 'str'> embedded_type
-# <class 'str'> stop_area
-# <class 'str'> quality
-# <class 'str'> name
-# <class 'str'> id
-# '''
-# print(from_section["name"])
 
 
 
@@ -234,43 +223,4 @@ print(stations_departure_time)
 
 
 
-
-
-# transfers = journey[0]["nb_transfers"]
-# print(transfers) # 0
-# status = journey[0]["status"]
-# print(status) # empty
-# distance = journey[0]["distances"]
-# print(distance) # {'taxi': 0, 'car': 0, 'walking': 0, 'bike': 0, 'ridesharing': 0}
-# duration = journey[0]["durations"]
-# print(duration) # {'taxi': 0, 'walking': 0, 'car': 0, 'ridesharing': 0, 'bike': 0, 'total': 8220}
-# departure = journey[0]["departure_date_time"]
-# print(departure) # 20210125T055200
-
-
-# sections = journey[0]["sections"]
-# print(sections)
-# print(type(sections)) # list
-
-# section = sections[2]
-# print(section)
-# print(type(section)) # dict
-
-# stop_points = []
-
-# for loop_stop in sections:
-#     if "stop_area" in loop_stop.keys():
-#         local_stop = loop_stop["stop_area"]
-#         stop_points.append(local_stop) # empty list
-
-# print(stop_points) # empty list
-
-
-# label = []
-
-# for loop_label in sections:
-#     if "label" in loop_label.keys():
-#         label.append("label") # empty list
-
-# print(label) # empty list
 
