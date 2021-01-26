@@ -2,6 +2,7 @@ import json
 import requests
 import pprint
 import datetime
+from dateutil import parser
 
 url = 'https://api.sncf.com/v1/coverage/sncf/journeys?from=stop_area:OCE:SA:87686006&to=stop_area:OCE:SA:87722025'
 headers = {'Authorization': "e3f2b3a6-caa9-47d7-98ee-1f67379e654b"}
@@ -171,19 +172,61 @@ station_paris_lyon = []
 stations_arrival_time = []
 stations_departure_time = []
 
-for stop in stop_date_times: 
-    if "arrival_date_time" in stop.keys():
-        arrival = stop["arrival_date_time"]
-        stations_arrival_time.append(arrival)
-print(stations_arrival_time)
+# for stop in stop_date_times: 
+#     if "arrival_date_time" in stop.keys():
+#         arrival = stop["arrival_date_time"]
+#         stations_arrival_time.append(arrival)
+# print(stations_arrival_time)
 
-for stop in stop_date_times: 
-    if "departure_date_time" in stop.keys():
-        departure = stop["departure_date_time"]
-        stations_departure_time.append(departure)
-print(stations_departure_time)
+# for stop in stop_date_times: 
+#     if "departure_date_time" in stop.keys():
+#         departure = stop["departure_date_time"]
+#         stations_departure_time.append(departure)
+# print(stations_departure_time)
 
 # transform the info received in normal date time etc like temps d'arret:  0:03:00
+
+
+stop_times = []
+
+for key, stop in enumerate(section['stop_date_times']):#<class 'dict'>
+
+#print(type(stop))#<class 'dict'>
+#print(stop['stop_point'])#dict
+#print(stop['stop_point']['name'])
+#print(cle)
+
+    if key != 0 and key != (len(section['stop_date_times']) -1):
+        stop_name  = stop['stop_point']['name']
+
+        station_paris_lyon.append(stop_name)      
+
+        arrival_time = stop["arrival_date_time"]
+        departure_time = stop["departure_date_time"]
+
+        arrival_converted = parser.parse(arrival_time) #<class 'datetime.datetime'> datetime.datetime(2021, 1, 25, 19, 13)
+        departure_converted = parser.parse(departure_time) #<class 'datetime.datetime'>
+
+        result_time = departure_converted - arrival_converted
+
+print(stop_times)
+
+stop_times.append([stop_name, str(result_time)])
+
+print('There are ', nmb_stations, ' stops : ',station_paris_lyon)
+
+#---- combien de temps d’arrêt à chacune d’elles ?
+
+print("Time between stops: ", stop_times)
+
+
+
+
+
+
+
+
+
 
 
 
