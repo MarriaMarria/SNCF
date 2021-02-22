@@ -1,0 +1,335 @@
+2021-02-20 16:05:25,790 - root -INFO - Requesting API: start
+2021-02-20 16:05:26,289 - root -INFO - Requesting API: end
+2021-02-20 16:05:26,290 - root -INFO - Reading json from API: start
+2021-02-20 16:05:26,290 - root -INFO - Reading json from API: end
+2021-02-20 16:06:26,985 - root -INFO - Requesting API: start
+2021-02-20 16:06:27,076 - root -INFO - Requesting API: end
+2021-02-20 16:06:27,076 - root -INFO - Reading json from API: start
+2021-02-20 16:06:27,077 - root -INFO - Reading json from API: end
+2021-02-20 16:06:41,944 - root -INFO - Requesting API: start
+2021-02-20 16:06:42,039 - root -INFO - Requesting API: end
+2021-02-20 16:06:42,039 - root -INFO - Reading json from API: start
+2021-02-20 16:06:42,039 - root -INFO - Reading json from API: end
+2021-02-20 16:07:58,565 - root -INFO - Requesting API: start
+2021-02-20 16:07:58,786 - root -INFO - Requesting API: end
+2021-02-20 16:07:58,786 - root -INFO - Reading json from API: start
+2021-02-20 16:07:58,787 - root -INFO - Reading json from API: end
+2021-02-20 16:10:05,404 - root -INFO - Requesting API: start
+2021-02-20 16:10:06,662 - root -INFO - Requesting API: end
+2021-02-20 16:10:06,662 - root -INFO - Reading json from API: start
+2021-02-20 16:10:06,663 - root -INFO - Reading json from API: end
+2021-02-20 16:10:24,935 - root -INFO - Requesting API: start
+2021-02-20 16:10:25,010 - root -INFO - Requesting API: end
+2021-02-20 16:10:25,010 - root -INFO - Reading json from API: start
+2021-02-20 16:10:25,010 - root -INFO - Reading json from API: end
+2021-02-20 16:10:59,140 - root -INFO - Requesting API: start
+2021-02-20 16:10:59,231 - root -INFO - Requesting API: end
+2021-02-20 16:10:59,231 - root -INFO - Reading json from API: start
+2021-02-20 16:10:59,232 - root -INFO - Reading json from API: end
+2021-02-20 16:11:21,985 - root -INFO - Requesting API: start
+2021-02-20 16:11:22,060 - root -INFO - Requesting API: end
+2021-02-20 16:11:22,060 - root -INFO - Reading json from API: start
+2021-02-20 16:11:22,061 - root -INFO - Reading json from API: end
+2021-02-20 16:11:43,437 - root -INFO - Requesting API: start
+2021-02-20 16:11:43,525 - root -INFO - Requesting API: end
+2021-02-20 16:11:43,526 - root -INFO - Reading json from API: start
+2021-02-20 16:11:43,527 - root -INFO - Reading json from API: end
+2021-02-20 16:11:55,035 - root -INFO - Requesting API: start
+2021-02-20 16:11:55,148 - root -INFO - Requesting API: end
+2021-02-20 16:11:55,148 - root -INFO - Reading json from API: start
+2021-02-20 16:11:55,149 - root -INFO - Reading json from API: end
+2021-02-20 16:12:13,187 - root -INFO - Requesting API: start
+2021-02-20 16:12:13,286 - root -INFO - Requesting API: end
+2021-02-20 16:12:13,287 - root -INFO - Reading json from API: start
+2021-02-20 16:12:13,287 - root -INFO - Reading json from API: end
+2021-02-20 16:12:44,290 - root -INFO - Requesting API: start
+2021-02-20 16:12:44,450 - root -INFO - Requesting API: end
+2021-02-20 16:12:44,450 - root -INFO - Reading json from API: start
+2021-02-20 16:12:44,451 - root -INFO - Reading json from API: end
+2021-02-20 16:13:09,209 - root -INFO - Requesting API: start
+2021-02-20 16:13:09,301 - root -INFO - Requesting API: end
+2021-02-20 16:13:09,301 - root -INFO - Reading json from API: start
+2021-02-20 16:13:09,301 - root -INFO - Reading json from API: end
+2021-02-20 16:13:59,521 - root -INFO - Requesting API: start
+2021-02-20 16:13:59,616 - root -INFO - Requesting API: end
+2021-02-20 16:13:59,616 - root -INFO - Reading json from API: start
+2021-02-20 16:13:59,617 - root -INFO - Reading json from API: end
+2021-02-20 16:15:27,389 - root -INFO - Requesting API: start
+2021-02-20 16:15:27,490 - root -INFO - Requesting API: end
+2021-02-20 16:15:27,490 - root -INFO - Reading json from API: start
+2021-02-20 16:15:27,490 - root -INFO - Reading json from API: end
+2021-02-20 16:15:27,490 - root -INFO - Getting list of links: start
+2021-02-20 16:16:52,181 - root -INFO - Requesting API: start
+2021-02-20 16:16:52,279 - root -INFO - Requesting API: end
+2021-02-20 16:16:52,279 - root -INFO - Reading json from API: start
+2021-02-20 16:16:52,280 - root -INFO - Reading json from API: end
+2021-02-20 16:16:52,280 - root -INFO - Getting list of links: start
+2021-02-20 16:18:13,364 - root -INFO - Requesting API: start
+2021-02-20 16:18:13,451 - root -INFO - Requesting API: end
+2021-02-20 16:18:13,451 - root -INFO - Reading json from API: start
+2021-02-20 16:18:13,451 - root -INFO - Reading json from API: end
+2021-02-20 16:18:13,451 - root -INFO - Getting list of links: start
+2021-02-20 16:21:55,685 - root -INFO - Requesting API: start
+2021-02-20 16:21:55,845 - root -INFO - Requesting API: end
+2021-02-20 16:21:55,845 - root -INFO - Reading json from API: start
+2021-02-20 16:21:55,845 - root -INFO - Reading json from API: end
+2021-02-20 16:21:55,846 - root -INFO - Getting list of links: start
+2021-02-20 16:22:10,408 - root -INFO - Requesting API: start
+2021-02-20 16:22:10,523 - root -INFO - Requesting API: end
+2021-02-20 16:22:10,524 - root -INFO - Reading json from API: start
+2021-02-20 16:22:10,524 - root -INFO - Reading json from API: end
+2021-02-20 16:22:10,524 - root -INFO - Getting list of links: start
+2021-02-20 16:22:33,680 - root -INFO - Requesting API: start
+2021-02-20 16:22:33,765 - root -INFO - Requesting API: end
+2021-02-20 16:22:33,765 - root -INFO - Reading json from API: start
+2021-02-20 16:22:33,765 - root -INFO - Reading json from API: end
+2021-02-20 16:22:44,285 - root -INFO - Requesting API: start
+2021-02-20 16:22:44,444 - root -INFO - Requesting API: end
+2021-02-20 16:22:44,444 - root -INFO - Reading json from API: start
+2021-02-20 16:22:44,445 - root -INFO - Reading json from API: end
+2021-02-20 16:25:00,540 - root -INFO - Requesting API: start
+2021-02-20 16:25:00,613 - root -INFO - Requesting API: end
+2021-02-20 16:25:00,613 - root -INFO - Reading json from API: start
+2021-02-20 16:25:00,614 - root -INFO - Reading json from API: end
+2021-02-20 16:25:20,427 - root -INFO - Requesting API: start
+2021-02-20 16:25:20,515 - root -INFO - Requesting API: end
+2021-02-20 16:25:20,515 - root -INFO - Reading json from API: start
+2021-02-20 16:25:20,515 - root -INFO - Reading json from API: end
+2021-02-20 16:25:20,515 - root -INFO - Getting list of links: start
+2021-02-20 16:28:07,488 - root -INFO - Requesting API: start
+2021-02-20 16:28:07,569 - root -INFO - Requesting API: end
+2021-02-20 16:28:07,569 - root -INFO - Reading json from API: start
+2021-02-20 16:28:07,570 - root -INFO - Reading json from API: end
+2021-02-20 16:28:07,570 - root -INFO - Getting list of links: start
+2021-02-20 21:22:21,530 - root -INFO - Requesting API: start
+2021-02-20 21:22:21,910 - root -INFO - Requesting API: end
+2021-02-20 21:22:21,911 - root -INFO - Reading json from API: start
+2021-02-20 21:22:21,913 - root -INFO - Reading json from API: end
+2021-02-20 21:22:21,913 - root -INFO - Getting list of links: start
+2021-02-20 21:24:46,003 - root -INFO - Requesting API: start
+2021-02-20 21:24:46,184 - root -INFO - Requesting API: end
+2021-02-20 21:24:46,185 - root -INFO - Reading json from API: start
+2021-02-20 21:24:46,186 - root -INFO - Reading json from API: end
+2021-02-20 21:24:46,186 - root -INFO - Getting list of links: start
+2021-02-20 21:26:45,431 - root -INFO - Requesting API: start
+2021-02-20 21:26:45,523 - root -INFO - Requesting API: end
+2021-02-20 21:26:45,523 - root -INFO - Reading json from API: start
+2021-02-20 21:26:45,523 - root -INFO - Reading json from API: end
+2021-02-20 21:26:45,524 - root -INFO - Getting list of links: start
+2021-02-20 21:27:04,923 - root -INFO - Requesting API: start
+2021-02-20 21:27:05,006 - root -INFO - Requesting API: end
+2021-02-20 21:27:05,007 - root -INFO - Reading json from API: start
+2021-02-20 21:27:05,007 - root -INFO - Reading json from API: end
+2021-02-20 21:28:00,720 - root -INFO - Requesting API: start
+2021-02-20 21:28:00,808 - root -INFO - Requesting API: end
+2021-02-20 21:28:00,808 - root -INFO - Reading json from API: start
+2021-02-20 21:28:00,808 - root -INFO - Reading json from API: end
+2021-02-20 21:29:00,262 - root -INFO - Requesting API: start
+2021-02-20 21:29:00,374 - root -INFO - Requesting API: end
+2021-02-20 21:29:00,374 - root -INFO - Reading json from API: start
+2021-02-20 21:29:00,374 - root -INFO - Reading json from API: end
+2021-02-20 21:29:34,682 - root -INFO - Requesting API: start
+2021-02-20 21:29:34,766 - root -INFO - Requesting API: end
+2021-02-20 21:29:34,766 - root -INFO - Reading json from API: start
+2021-02-20 21:29:34,766 - root -INFO - Reading json from API: end
+2021-02-20 21:29:34,766 - root -INFO - Getting list of links: start
+2021-02-20 21:29:54,126 - root -INFO - Requesting API: start
+2021-02-20 21:29:54,220 - root -INFO - Requesting API: end
+2021-02-20 21:29:54,220 - root -INFO - Reading json from API: start
+2021-02-20 21:29:54,220 - root -INFO - Reading json from API: end
+2021-02-20 21:29:54,220 - root -INFO - Getting list of links: start
+2021-02-22 13:38:02,485 - root -INFO - Requesting API: start
+2021-02-22 13:38:08,046 - root -INFO - Requesting API: end
+2021-02-22 13:38:08,047 - root -INFO - Reading json from API: start
+2021-02-22 13:38:08,047 - root -INFO - Reading json from API: end
+2021-02-22 13:38:08,047 - root -INFO - Getting list of links: start
+2021-02-22 13:39:33,272 - root -INFO - Requesting API: start
+2021-02-22 13:39:35,186 - root -INFO - Requesting API: end
+2021-02-22 13:39:35,187 - root -INFO - Reading json from API: start
+2021-02-22 13:39:35,188 - root -INFO - Reading json from API: end
+2021-02-22 13:39:35,188 - root -INFO - Getting list of links: start
+2021-02-22 13:41:18,674 - root -INFO - Requesting API: start
+2021-02-22 13:41:19,047 - root -INFO - Requesting API: end
+2021-02-22 13:41:19,047 - root -INFO - Reading json from API: start
+2021-02-22 13:41:19,048 - root -INFO - Reading json from API: end
+2021-02-22 13:41:19,049 - root -INFO - Getting list of links: start
+2021-02-22 13:41:35,629 - root -INFO - Requesting API: start
+2021-02-22 13:41:41,230 - root -INFO - Requesting API: end
+2021-02-22 13:41:41,230 - root -INFO - Reading json from API: start
+2021-02-22 13:41:41,230 - root -INFO - Reading json from API: end
+2021-02-22 13:41:41,231 - root -INFO - Getting list of links: start
+2021-02-22 13:41:41,231 - root -INFO - Getting list of links: end
+2021-02-22 13:42:00,206 - root -INFO - Requesting API: start
+2021-02-22 13:42:00,691 - root -INFO - Requesting API: end
+2021-02-22 13:42:00,691 - root -INFO - Reading json from API: start
+2021-02-22 13:42:00,692 - root -INFO - Reading json from API: end
+2021-02-22 13:42:00,692 - root -INFO - Getting list of links: start
+2021-02-22 13:42:00,692 - root -INFO - Getting list of links: end
+2021-02-22 13:42:27,045 - root -INFO - Requesting API: start
+2021-02-22 13:42:27,196 - root -INFO - Requesting API: end
+2021-02-22 13:42:27,196 - root -INFO - Reading json from API: start
+2021-02-22 13:42:27,197 - root -INFO - Reading json from API: end
+2021-02-22 13:42:27,197 - root -INFO - Getting list of links: start
+2021-02-22 13:42:27,197 - root -INFO - Getting list of links: end
+2021-02-22 13:46:55,131 - root -INFO - Requesting API: start
+2021-02-22 13:46:55,292 - root -INFO - Error: cannot access the file
+2021-02-22 13:46:55,293 - root -INFO - Requesting API: end
+2021-02-22 13:46:55,294 - root -INFO - Reading json from API: start
+2021-02-22 13:46:55,294 - root -INFO - Error: couldn't save the file
+2021-02-22 13:46:55,294 - root -INFO - Reading json from API: end
+2021-02-22 13:46:55,294 - root -INFO - Getting list of links: start
+2021-02-22 13:49:06,464 - root -INFO - Requesting API: start
+2021-02-22 13:49:06,558 - root -INFO - Error: cannot access the file
+2021-02-22 13:49:06,558 - root -INFO - Requesting API: end
+2021-02-22 13:49:06,559 - root -INFO - Reading json from API: start
+2021-02-22 13:49:06,559 - root -INFO - Error: couldn't save the file
+2021-02-22 13:49:06,559 - root -INFO - Reading json from API: end
+2021-02-22 13:49:06,559 - root -INFO - Getting list of links: start
+2021-02-22 13:50:27,233 - root -INFO - Requesting API: start
+2021-02-22 13:50:30,607 - root -INFO - Error: cannot access the file
+2021-02-22 13:50:30,608 - root -INFO - Requesting API: end
+2021-02-22 13:50:30,608 - root -INFO - Reading json from API: start
+2021-02-22 13:50:30,608 - root -INFO - Error: couldn't save the file
+2021-02-22 13:50:30,608 - root -INFO - Reading json from API: end
+2021-02-22 13:50:30,608 - root -INFO - Getting list of links: start
+2021-02-22 13:52:36,028 - root -INFO - Requesting API: start
+2021-02-22 13:52:36,159 - root -INFO - Error: cannot access the file
+2021-02-22 13:52:36,159 - root -INFO - Requesting API: end
+2021-02-22 13:52:36,160 - root -INFO - Reading json from API: start
+2021-02-22 13:52:36,160 - root -INFO - Error: couldn't save the file
+2021-02-22 13:52:36,160 - root -INFO - Reading json from API: end
+2021-02-22 13:52:36,160 - root -INFO - Getting list of links: start
+2021-02-22 13:54:01,969 - root -INFO - Requesting API: start
+2021-02-22 13:54:02,228 - root -INFO - Error: cannot access the file
+2021-02-22 13:54:02,229 - root -INFO - Requesting API: end
+2021-02-22 13:54:02,229 - root -INFO - Reading json from API: start
+2021-02-22 13:54:02,229 - root -INFO - Error: couldn't save the file
+2021-02-22 13:54:02,229 - root -INFO - Reading json from API: end
+2021-02-22 13:54:02,229 - root -INFO - Getting list of links: start
+2021-02-22 13:55:34,275 - root -INFO - Requesting API: start
+2021-02-22 13:55:34,380 - root -INFO - Error: cannot access the file
+2021-02-22 13:55:34,381 - root -INFO - Requesting API: end
+2021-02-22 13:55:34,381 - root -INFO - Reading json from API: start
+2021-02-22 13:55:34,381 - root -INFO - Error: couldn't save the file
+2021-02-22 13:55:34,381 - root -INFO - Reading json from API: end
+2021-02-22 13:55:34,382 - root -INFO - Getting list of links: start
+2021-02-22 13:59:09,749 - root -INFO - Requesting API: start
+2021-02-22 13:59:09,861 - root -INFO - Error: cannot access the file
+2021-02-22 13:59:09,861 - root -INFO - Requesting API: end
+2021-02-22 13:59:09,862 - root -INFO - Reading json from API: start
+2021-02-22 13:59:09,862 - root -INFO - Error: couldn't save the file, [Errno 2] No such file or directory: 'stop_areas_maria22/02.json'
+2021-02-22 13:59:09,862 - root -INFO - Reading json from API: end
+2021-02-22 13:59:09,862 - root -INFO - Getting list of links: start
+2021-02-22 13:59:52,569 - root -INFO - Requesting API: start
+2021-02-22 13:59:52,680 - root -INFO - Requesting API: end
+2021-02-22 13:59:52,680 - root -INFO - Reading json from API: start
+2021-02-22 13:59:52,681 - root -INFO - all good
+2021-02-22 13:59:52,682 - root -INFO - Reading json from API: end
+2021-02-22 13:59:52,682 - root -INFO - Getting list of links: start
+2021-02-22 13:59:52,683 - root -INFO - Getting list of links: end
+2021-02-22 14:00:27,238 - root -INFO - Requesting API: start
+2021-02-22 14:00:27,358 - root -INFO - Requesting API: end
+2021-02-22 14:00:27,358 - root -INFO - Reading json from API: start
+2021-02-22 14:00:27,359 - root -INFO - all good
+2021-02-22 14:00:27,359 - root -INFO - Reading json from API: end
+2021-02-22 14:00:27,359 - root -INFO - Getting list of links: start
+2021-02-22 14:00:27,360 - root -INFO - Getting list of links: end
+2021-02-22 14:08:40,395 - root -INFO - Requesting API: start
+2021-02-22 14:08:40,687 - root -INFO - Requesting API: end
+2021-02-22 14:08:40,688 - root -INFO - Reading json from API: start
+2021-02-22 14:08:40,688 - root -INFO - all good
+2021-02-22 14:08:40,688 - root -INFO - Reading json from API: end
+2021-02-22 14:08:40,688 - root -INFO - Getting list of links: start
+2021-02-22 14:08:40,689 - root -INFO - Getting list of links: end
+2021-02-22 14:08:40,689 - root -INFO - Saving info to csv: start
+2021-02-22 14:08:40,689 - root -INFO - Saving info to csv: end; Error, code is I/O operation on closed file.
+2021-02-22 14:12:05,589 - root -INFO - Requesting API: start
+2021-02-22 14:12:05,711 - root -INFO - Requesting API: end
+2021-02-22 14:12:05,711 - root -INFO - Reading json from API: start
+2021-02-22 14:12:05,712 - root -INFO - all good
+2021-02-22 14:12:05,713 - root -INFO - Reading json from API: end
+2021-02-22 14:12:05,713 - root -INFO - Getting list of links: start
+2021-02-22 14:12:05,713 - root -INFO - Getting list of links: end
+2021-02-22 14:12:05,713 - root -INFO - Saving info to csv: start
+2021-02-22 14:12:05,713 - root -INFO - Saving info to csv: end; Error, code is I/O operation on closed file.
+2021-02-22 14:16:09,279 - root -INFO - Requesting API: start
+2021-02-22 14:16:09,480 - root -INFO - Requesting API: end
+2021-02-22 14:16:09,481 - root -INFO - Reading json from API: start
+2021-02-22 14:16:09,482 - root -INFO - all good
+2021-02-22 14:16:09,482 - root -INFO - Reading json from API: end
+2021-02-22 14:16:09,482 - root -INFO - Getting list of links: start
+2021-02-22 14:16:09,482 - root -INFO - Getting list of links: end
+2021-02-22 14:16:09,482 - root -INFO - Saving info to csv: start
+2021-02-22 14:16:09,483 - root -INFO - Saving info to csv: end; Error, code is I/O operation on closed file.
+2021-02-22 14:16:40,364 - root -INFO - Requesting API: start
+2021-02-22 14:16:40,478 - root -INFO - Requesting API: end
+2021-02-22 14:16:40,479 - root -INFO - Reading json from API: start
+2021-02-22 14:16:40,479 - root -INFO - all good
+2021-02-22 14:16:40,479 - root -INFO - Reading json from API: end
+2021-02-22 14:16:40,479 - root -INFO - Getting list of links: start
+2021-02-22 14:16:40,479 - root -INFO - Getting list of links: end
+2021-02-22 14:16:40,480 - root -INFO - Saving info to csv: start
+2021-02-22 14:34:19,262 - root -INFO - Requesting API: start
+2021-02-22 14:34:19,494 - root -INFO - Requesting API: end
+2021-02-22 14:34:19,495 - root -INFO - Reading json from API: start
+2021-02-22 14:34:19,497 - root -INFO - all good
+2021-02-22 14:34:19,498 - root -INFO - Reading json from API: end
+2021-02-22 14:34:19,498 - root -INFO - Getting list of links: start
+2021-02-22 14:34:19,499 - root -INFO - Getting list of links: end
+2021-02-22 14:34:19,500 - root -INFO - Saving id's to csv: start
+2021-02-22 14:34:19,500 - root -INFO - Saving id's to csv: end
+2021-02-22 14:34:19,500 - root -INFO - Saving links to csv: start
+2021-02-22 14:40:47,007 - root -INFO - Requesting API: start
+2021-02-22 14:40:47,155 - root -INFO - Requesting API: end
+2021-02-22 14:40:47,155 - root -INFO - Reading json from API: start
+2021-02-22 14:40:47,156 - root -INFO - all good
+2021-02-22 14:40:47,156 - root -INFO - Reading json from API: end
+2021-02-22 14:40:47,156 - root -INFO - Getting list of links: start
+2021-02-22 14:40:47,157 - root -INFO - Getting list of links: end
+2021-02-22 14:40:47,157 - root -INFO - Saving id's to csv: start
+2021-02-22 14:40:47,157 - root -INFO - Saving id's to csv: end
+2021-02-22 14:40:47,157 - root -INFO - Saving links to csv: start
+2021-02-22 14:41:33,851 - root -INFO - Requesting API: start
+2021-02-22 14:41:33,964 - root -INFO - Requesting API: end
+2021-02-22 14:41:33,965 - root -INFO - Reading json from API: start
+2021-02-22 14:41:33,965 - root -INFO - all good
+2021-02-22 14:41:33,965 - root -INFO - Reading json from API: end
+2021-02-22 14:41:33,965 - root -INFO - Getting list of links: start
+2021-02-22 14:41:33,965 - root -INFO - Getting list of links: end
+2021-02-22 14:41:33,966 - root -INFO - Saving id's to csv: start
+2021-02-22 14:41:33,966 - root -INFO - Saving id's to csv: end
+2021-02-22 14:41:33,966 - root -INFO - Saving links to csv: start
+2021-02-22 14:42:08,143 - root -INFO - Requesting API: start
+2021-02-22 14:42:08,280 - root -INFO - Requesting API: end
+2021-02-22 14:42:08,280 - root -INFO - Reading json from API: start
+2021-02-22 14:42:08,281 - root -INFO - all good
+2021-02-22 14:42:08,281 - root -INFO - Reading json from API: end
+2021-02-22 14:42:08,282 - root -INFO - Getting list of links: start
+2021-02-22 14:42:08,282 - root -INFO - Getting list of links: end
+2021-02-22 14:42:08,282 - root -INFO - Saving id's to csv: start
+2021-02-22 14:42:08,282 - root -INFO - Saving id's to csv: end
+2021-02-22 14:42:08,283 - root -INFO - Saving links to csv: start
+2021-02-22 14:42:08,283 - root -INFO - Saving station names: start
+2021-02-22 14:42:22,307 - root -INFO - Requesting API: start
+2021-02-22 14:42:22,446 - root -INFO - Requesting API: end
+2021-02-22 14:42:22,447 - root -INFO - Reading json from API: start
+2021-02-22 14:42:22,448 - root -INFO - all good
+2021-02-22 14:42:22,448 - root -INFO - Reading json from API: end
+2021-02-22 14:42:22,448 - root -INFO - Getting list of links: start
+2021-02-22 14:42:22,449 - root -INFO - Getting list of links: end
+2021-02-22 14:42:22,449 - root -INFO - Saving id's to csv: start
+2021-02-22 14:42:22,449 - root -INFO - Saving id's to csv: end
+2021-02-22 14:42:22,449 - root -INFO - Saving links to csv: start
+2021-02-22 14:42:22,450 - root -INFO - Saving station names: start
+2021-02-22 14:43:25,141 - root -INFO - Requesting API: start
+2021-02-22 14:43:25,299 - root -INFO - Requesting API: end
+2021-02-22 14:43:25,300 - root -INFO - Reading json from API: start
+2021-02-22 14:43:25,301 - root -INFO - all good
+2021-02-22 14:43:25,301 - root -INFO - Reading json from API: end
+2021-02-22 14:43:25,301 - root -INFO - Getting list of links: start
+2021-02-22 14:43:25,301 - root -INFO - Getting list of links: end
+2021-02-22 14:43:25,301 - root -INFO - Saving id's to csv: start
+2021-02-22 14:43:25,301 - root -INFO - Saving id's to csv: end
+2021-02-22 14:43:25,302 - root -INFO - Saving links to csv: start
+2021-02-22 14:43:25,302 - root -INFO - Saving station names: start
+2021-02-22 14:43:25,303 - root -INFO - Saving station names: end
