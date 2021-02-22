@@ -16,7 +16,7 @@ class ReadSncfApi():
 
     def __init__(self):
         self.url_stop_areas = "https://api.sncf.com/v1/coverage/sncf/stop_areas"
-        self.headers_stop_areas = {"Authorization": "e3f2b3a6-caa9-47d7-98ee-1f67379e654b"}
+        self.headers = {"Authorization": "e3f2b3a6-caa9-47d7-98ee-1f67379e654b"}
         self.list_hrefs = []
         self.data = None
         self.filename_json = 'stop_areas_maria' # we don't put .json; local copy of url
@@ -26,12 +26,13 @@ class ReadSncfApi():
 
         self.url_Paris_Lyon = 'https://api.sncf.com/v1/coverage/sncf/journeys?from=stop_area:OCE:SA:87686006&to=stop_area:OCE:SA:87722025'
         self.headers_Paris_Lyon = {'Authorization': "e3f2b3a6-caa9-47d7-98ee-1f67379e654b"}
+        self.paris_Lyon = 'journey_Paris_Lyon'
 
     def read_json(self):  # reads and saves a local copy of json / stop_areas_maria.json
 
         logging.info('Requesting API: start')
         try:
-            response = requests.get(self.url_stop_areas, headers=self.headers_stop_areas) 
+            response = requests.get(self.url_stop_areas, headers=self.headers) 
             #headers1 is a name of the parameter, second = my real header attribute
 
             with open(self.filename_json + '.json', mode="w") as file:
@@ -55,13 +56,6 @@ class ReadSncfApi():
         except Exception as e:
             logging.info(f"Error: couldn't save the file, {e}")  
 
-        # print(data) 
-        # print(type(data))   
-        # print(data.keys())
-        # links = data['links'] # list
-        # print(type(links))
-        # link = links[0]
-        # print(f'printing {link}')
         logging.info('Reading json from API: end')
 
     def get_endpoints(self):
@@ -88,10 +82,6 @@ class ReadSncfApi():
     def get_ids(self):
 
         logging.info("Saving id's to csv: start")
-
-        # try: 
-        #     with open(self.filename_json + '.json') as json_stop_areas_file:
-        #         data = json.load(json_stop_areas_file)
 
         areas = self.data['stop_areas']  #dict
         # print(areas) test
@@ -129,12 +119,13 @@ class ReadSncfApi():
 
         except Exception as e:
             logging.info(f"Saving links to csv: end; Error, code is {e}")
-
+        logging.info(f"Saving links to csv: end")
 
     def get_names(self):
 
         logging.info("Saving station names: start")
         areas = self.data['stop_areas']
+
         for loop_label in areas:
             if type(loop_label) == dict:
                 if "label" in loop_label.keys():
@@ -146,4 +137,21 @@ class ReadSncfApi():
             else:
                 print(f"Unexpected format {type(loop_label)}")
         logging.info("Saving station names: end")
+
+    def request_API_journeyParisLyon(self):
+
+        logging.info('Requesting API Paris Lyon: start')
+
+        try:
+            response_Paris_Lyon = requests.get(self.url_Paris_Lyon, headers=self.headers) 
+
+            with open(self.paris_Lyon + '.json', mode="w") as file:
+                json.dump(response_Paris_Lyon.json(), file) # saving local copy
+                json.loads(response_Paris_Lyon.text) 
+                # json.loads() method can be used to parse a valid JSON string and convert it into a Python Dictionary.
+        except Exception as e:
+            logging.info(f'Error, code {e}')
+
+            
+        logging.info('Requesting API Paris Lyon: end')
 

@@ -10,9 +10,7 @@ sncf.get_ids()
 sncf.save_csv_href()
 sncf.get_names()
 
-# sncf.list_labels # checking list
-# print(sncf.my_labels())
-
+sncf.request_API_journeyParisLyon()
 
 # if __name__ == 'main':
 #     print("HELLO")
